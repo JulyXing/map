@@ -1,0 +1,11 @@
+*.*
+
+.idea/
+
+!include/
+!lib/
+!utility
+
+!LICENSE
+!README.md
+!.gitignore
